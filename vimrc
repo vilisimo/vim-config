@@ -13,5 +13,8 @@ set showmatch
 
 set hlsearch
 
-:inoremap ( ()<left>
-:inoremap { {}<left>
+call plug#begin('~/.vim/plugged')
+
+Plug 'jiangmiao/auto-pairs'
+
+call plug#end()
