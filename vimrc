@@ -17,6 +17,7 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'jiangmiao/auto-pairs'
 Plug 'Yggdroot/indentLine'
+Plug 'google/vim-searchindex'
 
 call plug#end()
 
