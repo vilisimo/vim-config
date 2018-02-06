@@ -3,6 +3,7 @@ set tabstop=4
 set number
 set colorcolumn=80
 highlight ColorColumn ctermbg=darkgray
+colo koehler
 
 set tabstop=8
 set softtabstop=0
