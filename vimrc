@@ -20,6 +20,7 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'Yggdroot/indentLine'
 Plug 'google/vim-searchindex'
 Plug 'cespare/vim-toml'
+Plug 'tpope/vim-commentary'
 
 call plug#end()
 
